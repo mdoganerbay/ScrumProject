@@ -3,9 +3,10 @@ C:\UCC08\Projects\ScrumProject\Projects\eCommerce\bin\Debug\eCommerce.exe
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\bin\Debug\eCommerce.pdb
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.AssemblyReference.cache
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.SuggestedBindingRedirects.cache
-C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Main.resources
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Properties.Resources.resources
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.GenerateResource.cache
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.CoreCompileInputs.cache
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.exe
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.pdb
+C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Login.resources
+C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Shopping.resources

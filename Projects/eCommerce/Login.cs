@@ -10,21 +10,31 @@ using System.Windows.Forms;
 
 namespace eCommerce
 {
-    public partial class Main : Form
+    public partial class Login : Form
     {
-        public Main()
+        public Login()
         {
             InitializeComponent();
         }
 
-       
-
-     
-        
 
         private void çıkışToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+           
+            
+        }
+
+        private void panel2_Click(object sender, EventArgs e)
+        {
+
+            Shopping frmShop = new Shopping();
+            frmShop.Show();
+
         }
     }
 }
