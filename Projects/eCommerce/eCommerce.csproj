@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frm_ComputerAndTablet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ComputerAndTablet.Designer.cs">
+      <DependentUpon>frm_ComputerAndTablet.cs</DependentUpon>
+    </Compile>
     <Compile Include="Shopping.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_ComputerAndTablet.resx">
+      <DependentUpon>frm_ComputerAndTablet.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>

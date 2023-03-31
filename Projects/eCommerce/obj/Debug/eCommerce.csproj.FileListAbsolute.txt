@@ -10,3 +10,16 @@ C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.exe
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.pdb
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Login.resources
 C:\UCC08\Projects\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Shopping.resources
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\bin\Debug\eCommerce.exe.config
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\bin\Debug\eCommerce.exe
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\bin\Debug\eCommerce.pdb
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.AssemblyReference.cache
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Login.resources
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Properties.Resources.resources
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.Shopping.resources
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.GenerateResource.cache
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.csproj.CoreCompileInputs.cache
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.exe
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.pdb
+C:\Users\mdoga\Source\Repos\ScrumProject\Projects\eCommerce\obj\Debug\eCommerce.frm_ComputerAndTablet.resources
